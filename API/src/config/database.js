@@ -2,8 +2,8 @@ module.exports = {
     dialect:'postgres',
     host:'localhost',
     username:'postgres',
-    password:'docker',
-    database:'finance',
+    password:'getnet',
+    database:'getnet',
     define:{
         timestamps:true,
         underscored:true,
